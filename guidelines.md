@@ -5,3 +5,4 @@
 3. Commit early, and often. Push to GitHub less frequently. 
 4. Update your branch often! (merge master / other people's work into your own branch as often as possible)
 5. Communicate!
+6. Profit.
